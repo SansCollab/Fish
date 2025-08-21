@@ -1,0 +1,299 @@
+[
+  {
+    "id": "1",
+    "name": "忙里偷闲1|忙裡偷閒1|Leisure time I",
+    "icon": "achievementLeisureTimeI",
+    "info": "啊啊|釣魚10次|Fishing 10 rounds",
+    "type": "1",
+    "count": "10",
+    "reward": "3,1000"
+  },
+  {
+    "id": "2",
+    "name": "忙里偷闲2|忙裡偷閒2|Leisure time II",
+    "icon": "achievementLeisureTimeIi",
+    "info": "啊啊|釣魚30次|Fishing 20 rounds",
+    "type": "1",
+    "count": "20",
+    "reward": "5,1"
+  },
+  {
+    "id": "3",
+    "name": "忙里偷闲3|忙裡偷閒3|Leisure time III",
+    "icon": "achievementLeisureTimeIii",
+    "info": "啊啊|釣魚80次|Fishing 80 rounds",
+    "type": "1",
+    "count": "80",
+    "reward": "3,150000"
+  },
+  {
+    "id": "3",
+    "name": "忙里偷闲3|忙裡偷閒4|Leisure time IV",
+    "icon": "achievementLeisureTimeIv",
+    "info": "啊啊|釣魚160次|Fishing 160 rounds",
+    "type": "1",
+    "count": "160",
+    "reward": "2,6"
+  },
+  {
+    "id": "4",
+    "name": "忙里偷闲3|忙裡偷閒5|Leisure time V",
+    "icon": "achievementLeisureTimeV",
+    "info": "啊啊|釣魚240次|Fishing 240 rounds",
+    "type": "1",
+    "count": "240",
+    "reward": "1,6"
+  },
+  {
+    "id": "5",
+    "name": "忙里偷闲3|忙裡偷閒5|Leisure time VI",
+    "icon": "",
+    "info": "啊啊|釣魚320次|Fishing 320 rounds",
+    "type": "1",
+    "count": "320",
+    "reward": "3,300000"
+  },
+  {
+    "id": "101",
+    "name": "深海探索1|深海探索1|Deep sea Adventures I",
+    "icon": "achievementDeepSeaAdventuresI",
+    "info": "啊啊|下潛深度達到130米|Reaching the depth of 130 m",
+    "type": "2",
+    "count": "130",
+    "reward": "3,1500"
+  },
+  {
+    "id": "102",
+    "name": "深海探索2|深海探索2|Deep sea Adventures II",
+    "icon": "achievementDeepSeaAdventuresIi",
+    "info": "啊啊|下潛深度達到250米|Reaching the depth of 250 m",
+    "type": "2",
+    "count": "250",
+    "reward": "3,3000"
+  },
+  {
+    "id": "103",
+    "name": "深海探索3|深海探索3|Deep sea Adventures III",
+    "icon": "achievementDeepSeaAdventuresIii",
+    "info": "啊啊|下潛深度達到500米|Reaching the depth of 500 m",
+    "type": "2",
+    "count": "500",
+    "reward": "4,2"
+  },
+  {
+    "id": "104",
+    "name": "深海探索3|深海探索4|Deep sea Adventures IV",
+    "icon": "achievementDeepSeaAdventuresIv",
+    "info": "啊啊|下潛深度達到750米|Reaching the depth of 750 m",
+    "type": "2",
+    "count": "750",
+    "reward": "2,7"
+  },
+  {
+    "id": "201",
+    "name": "我要更多1|我要更多1|I want more I",
+    "icon": "achievementIWantMoreI",
+    "info": "啊啊|釣到100條魚|Catching 100 Fish",
+    "type": "3",
+    "count": "100",
+    "reward": "3,3000"
+  },
+  {
+    "id": "202",
+    "name": "我要更多2|我要更多2|I want more II",
+    "icon": "achievementIWantMoreIi",
+    "info": "啊啊|釣到500條魚|Catching 500 Fish",
+    "type": "3",
+    "count": "500",
+    "reward": "2,3"
+  },
+  {
+    "id": "203",
+    "name": "我要更多3|我要更多3|I want more III",
+    "icon": "achievementIWantMoreIii",
+    "info": "啊啊|釣到1000條魚|Catching 1000 Fish",
+    "type": "3",
+    "count": "1000",
+    "reward": "2,4"
+  },
+  {
+    "id": "204",
+    "name": "我要更多3|我要更多4|I want more IV",
+    "icon": "achievementIWantMoreIv",
+    "info": "啊啊|釣到2000條魚|Catching 2000 Fish",
+    "type": "3",
+    "count": "2000",
+    "reward": "3,200000"
+  },
+  {
+    "id": "205",
+    "name": "我要更多3|我要更多5|I want more V",
+    "icon": "achievementIWantMoreV",
+    "info": "啊啊|釣到4000條魚|Catching 4000 Fish",
+    "type": "3",
+    "count": "4000",
+    "reward": "1,8"
+  },
+  {
+    "id": "301",
+    "name": "赚钱能手1|賺錢能手1|Money-making expert I",
+    "icon": "achievementMoneymakingExpertI",
+    "info": "啊啊|釣魚賺到5000金幣|Fishing to earn 5000 gold coins",
+    "type": "4",
+    "count": "5000",
+    "reward": "1,2"
+  },
+  {
+    "id": "302",
+    "name": "赚钱能手2|賺錢能手2|Money-making expert II",
+    "icon": "achievementMoneymakingExpertIi",
+    "info": "啊啊|釣魚賺到100000金幣|Fishing to earn 100000 gold coins",
+    "type": "4",
+    "count": "100000",
+    "reward": "3,5000"
+  },
+  {
+    "id": "303",
+    "name": "赚钱能手3|賺錢能手3|Money-making expert III",
+    "icon": "achievementMoneymakingExpertIii",
+    "info": "啊啊|釣魚賺到500000金幣|Fishing to earn 500000 gold coins",
+    "type": "4",
+    "count": "500000",
+    "reward": "2,5"
+  },
+  {
+    "id": "304",
+    "name": "赚钱能手3|賺錢能手4|Money-making expert IV",
+    "icon": "achievementMoneymakingExpertIv",
+    "info": "啊啊|釣魚賺到1000000金幣|Fishing to earn 1000000 gold coins",
+    "type": "4",
+    "count": "1000000",
+    "reward": "3,300000"
+  },
+  {
+    "id": "305",
+    "name": "赚钱能手3|賺錢能手5|Money-making expert V",
+    "icon": "achievementMoneymakingExpertV",
+    "info": "啊啊|釣魚賺到2000000金幣|Fishing to earn 2000000 gold coins",
+    "type": "4",
+    "count": "2000000",
+    "reward": "1,9"
+  },
+  {
+    "id": "401",
+    "name": "钓到大鱼1|釣到大魚1|Catch a big fish I",
+    "icon": "achievementCatchABigFishI",
+    "info": "啊啊|單次釣魚賺到1500金幣|One-round fishing to earn 1500 gold coins",
+    "type": "5",
+    "count": "1500",
+    "reward": "2,2"
+  },
+  {
+    "id": "402",
+    "name": "钓到大鱼2|釣到大魚2|Catch a big fish II",
+    "icon": "achievementCatchABigFishIi",
+    "info": "啊啊|單次釣魚賺到8000金幣|One-round fishing to earn 8000 gold coins",
+    "type": "5",
+    "count": "8000",
+    "reward": "3,3000"
+  },
+  {
+    "id": "403",
+    "name": "钓到大鱼3|釣到大魚3|Catch a big fish III",
+    "icon": "achievementCatchABigFishIii",
+    "info": "啊啊|單次釣魚賺到16000金幣|One-round fishing to earn 16000 gold coins",
+    "type": "5",
+    "count": "16000",
+    "reward": "1,5"
+  },
+  {
+    "id": "404",
+    "name": "钓到大鱼3|釣到大魚4|Catch a big fish IV",
+    "icon": "achievementCatchABigFishIv",
+    "info": "啊啊|單次釣魚賺到24000金幣|One-round fishing to earn 24000 gold coins",
+    "type": "5",
+    "count": "24000",
+    "reward": "2,8"
+  },
+  {
+    "id": "405",
+    "name": "钓到大鱼3|釣到大魚5|Catch a big fish V",
+    "icon": "achievementCatchABigFishV",
+    "info": "啊啊|單次釣魚賺到48000金幣|One-round fishing to earn 48000 gold coins",
+    "type": "5",
+    "count": "48000",
+    "reward": "3,350000"
+  },
+  {
+    "id": "501",
+    "name": "神秘生物1|神秘生物1|Mystery creature I",
+    "icon": "achievementMysteryCreatureI",
+    "info": "啊啊|釣到2只稀有生物|Fishing to catch 2 rare creatures",
+    "type": "6",
+    "count": "2",
+    "reward": "3,2000"
+  },
+  {
+    "id": "502",
+    "name": "神秘生物2|神秘生物2|Mystery creature II",
+    "icon": "achievementMysteryCreatureIi",
+    "info": "啊啊|釣到5只稀有生物|Fishing to catch 5 rare creatures",
+    "type": "6",
+    "count": "5",
+    "reward": "3,50000"
+  },
+  {
+    "id": "503",
+    "name": "神秘生物3|神秘生物3|Mystery creature III",
+    "icon": "achievementMysteryCreatureIii",
+    "info": "啊啊|釣到10只稀有生物|Fishing to catch 10 rare creatures",
+    "type": "6",
+    "count": "10",
+    "reward": "2,9"
+  },
+  {
+    "id": "601",
+    "name": "彩虹雨|彩虹雨1|Rainbow Rain I",
+    "icon": "achievementRainbowRainI",
+    "info": "啊啊|單次釣魚釣到10只特殊魚|10 Special fish caught in a single fishing round",
+    "type": "7",
+    "count": "10",
+    "reward": "3,2000"
+  },
+  {
+    "id": "602",
+    "name": "彩虹雨|彩虹雨2|Rainbow Rain II",
+    "icon": "achievementRainbowRainIi",
+    "info": "啊啊|單次釣魚釣到20只特殊魚|20 Special fish caught in a single fishing round",
+    "type": "7",
+    "count": "20",
+    "reward": "1,3"
+  },
+  {
+    "id": "603",
+    "name": "彩虹雨|彩虹雨3|Rainbow Rain III",
+    "icon": "achievementRainbowRainIii",
+    "info": "啊啊|單次釣魚釣到30只特殊魚|30 Special fish caught in a single fishing round",
+    "type": "7",
+    "count": "30",
+    "reward": "2,10"
+  },
+  {
+    "id": "604",
+    "name": "彩虹雨|彩虹雨4|Rainbow Rain IV",
+    "icon": "achievementRainbowRainIv",
+    "info": "啊啊|單次釣魚釣到40只特殊魚|40 Special fish caught in a single fishing round",
+    "type": "7",
+    "count": "40",
+    "reward": "1,10"
+  },
+  {
+    "id": "701",
+    "name": "看我的|看看我的|Look at me.",
+    "icon": "achievementLookAtMe",
+    "info": "啊啊|截圖，分享|Sharing screenshots",
+    "type": "8",
+    "count": "1",
+    "reward": "2,11"
+  }
+]

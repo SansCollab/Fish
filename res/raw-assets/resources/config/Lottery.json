@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|免費升級一次漁網|Free upgrade net size.",
+    "rewardtype": "1",
+    "rewardcount": 1,
+    "Weight": 40
+  },
+  {
+    "id": "2",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|免費升級一次深度|Free upgrade depth.",
+    "rewardtype": "1",
+    "rewardcount": "2",
+    "Weight": 40
+  },
+  {
+    "id": "3",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|免費升級一次離線收益|Free upgrade offline earnings.",
+    "rewardtype": "1",
+    "rewardcount": "3",
+    "Weight": 40
+  },
+  {
+    "id": "4",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚所有魚全是彩虹魚|All fish become special fish in next round.",
+    "rewardtype": "1",
+    "rewardcount": "4",
+    "Weight": 40
+  },
+  {
+    "id": "5",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚獲得的所有收益 X 2|All earnings double in next round.",
+    "rewardtype": "1",
+    "rewardcount": "5",
+    "Weight": 40
+  },
+  {
+    "id": "6",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚漁網容量-50%|Net size reduces to 50% in next round.",
+    "rewardtype": "2",
+    "rewardcount": "1",
+    "Weight": 25
+  },
+  {
+    "id": "7",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚深度-50%|Depth reduces to 50% in next round.",
+    "rewardtype": "2",
+    "rewardcount": "2",
+    "Weight": 25
+  },
+  {
+    "id": "8",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚沒有彩虹魚|There is no specail fish in next round.",
+    "rewardtype": "2",
+    "rewardcount": "3",
+    "Weight": 25
+  },
+  {
+    "id": "9",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚障礙物X2|There will be double obstacle in next round.",
+    "rewardtype": "2",
+    "rewardcount": "4",
+    "Weight": "0"
+  },
+  {
+    "id": "10",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次釣魚收益減半|All earnings reduce to 50% in next round.",
+    "rewardtype": "2",
+    "rewardcount": "5",
+    "Weight": 25
+  },
+  {
+    "id": "11",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次任意升級消耗X2|Any upgrades need double gold coins in next round.",
+    "rewardtype": "2",
+    "rewardcount": "6",
+    "Weight": 25
+  },
+  {
+    "id": "12",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|獲得新主題|Get a new theme.",
+    "rewardtype": "5",
+    "rewardcount": "3",
+    "Weight": "8"
+  },
+  {
+    "id": "13",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|獲得新船體|Get a new boat.",
+    "rewardtype": "3",
+    "rewardcount": "11",
+    "Weight": "8"
+  },
+  {
+    "id": "14",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|下一次任意升級消耗-50%|Any upgrades need gold coins reduce to 50% in next round.",
+    "rewardtype": "1",
+    "rewardcount": "6",
+    "Weight": "60"
+  },
+  {
+    "id": "15",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|獲得新寵物|Get a new pet.",
+    "rewardtype": "6",
+    "rewardcount": "5",
+    "Weight": "8"
+  },
+  {
+    "id": "16",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "啊啊|獲得新船體|Get a new boat.",
+    "rewardtype": "3",
+    "rewardcount": "7",
+    "Weight": "8"
+  }
+]

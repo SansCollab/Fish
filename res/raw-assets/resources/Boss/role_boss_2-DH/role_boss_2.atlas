@@ -1,0 +1,48 @@
+
+role_boss_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shen
+  rotate: false
+  xy: 2, 62
+  size: 456, 172
+  orig: 460, 176
+  offset: 2, 2
+  index: -1
+shou
+  rotate: false
+  xy: 641, 182
+  size: 117, 52
+  orig: 121, 56
+  offset: 2, 2
+  index: -1
+tou
+  rotate: false
+  xy: 460, 151
+  size: 179, 83
+  orig: 183, 87
+  offset: 2, 2
+  index: -1
+tui
+  rotate: false
+  xy: 460, 72
+  size: 125, 77
+  orig: 129, 81
+  offset: 2, 2
+  index: -1
+yan2
+  rotate: false
+  xy: 182, 38
+  size: 24, 22
+  orig: 28, 26
+  offset: 2, 2
+  index: -1
+zui
+  rotate: false
+  xy: 2, 2
+  size: 178, 58
+  orig: 182, 62
+  offset: 2, 2
+  index: -1

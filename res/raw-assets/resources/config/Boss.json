@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "巨齿鲨",
+    "res": "role_boss_1",
+    "gold": "1100",
+    "ranges": "0"
+  },
+  {
+    "id": "2",
+    "name": "鳄鱼",
+    "res": "role_boss_2",
+    "gold": "1300",
+    "ranges": "200"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "1",
+    "name": "简体|虎皮魚|Tiger Barb",
+    "res": "role_fish_7",
+    "type": "1",
+    "gold": "50",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "20-100"
+  },
+  {
+    "id": "2",
+    "name": "螃蟹|螃蟹|Crab",
+    "res": "role_fish_20",
+    "type": "1",
+    "gold": "75",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "30-120"
+  },
+  {
+    "id": "3",
+    "name": "简体|熱帶魚|Tropical fish",
+    "res": "role_fish_2",
+    "type": "1",
+    "gold": "100",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "40-140"
+  },
+  {
+    "id": "4",
+    "name": "简体|龍蝦|Lobster",
+    "res": "role_fish_13",
+    "type": "1",
+    "gold": "125",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "60-160"
+  },
+  {
+    "id": "5",
+    "name": "简体|海馬|Seahorse",
+    "res": "role_fish_16",
+    "type": "1",
+    "gold": "150",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "80-180"
+  },
+  {
+    "id": "6",
+    "name": "简体|鯧魚|Butterfish",
+    "res": "role_fish_3",
+    "type": "1",
+    "gold": "175",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "100-210"
+  },
+  {
+    "id": "7",
+    "name": "简体|鯊魚|Shark",
+    "res": "role_fish_5",
+    "type": "1",
+    "gold": "200",
+    "speed": "1",
+    "displayspeed": "2-4",
+    "info": "120-240"
+  },
+  {
+    "id": "8",
+    "name": "简体|海龜|Turtle",
+    "res": "role_fish_15",
+    "type": "1",
+    "gold": "225",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "140-270"
+  },
+  {
+    "id": "9",
+    "name": "简体|飛魚|Flying fish",
+    "res": "role_fish_18",
+    "type": "1",
+    "gold": "250",
+    "speed": "4",
+    "displayspeed": "3-5",
+    "info": "160-300"
+  },
+  {
+    "id": "10",
+    "name": "简体|鯨魚|Whale",
+    "res": "role_fish_14",
+    "type": "1",
+    "gold": "275",
+    "speed": "1",
+    "displayspeed": "3-5",
+    "info": "180-330"
+  },
+  {
+    "id": "11",
+    "name": "简体|海膽|Sea urchin",
+    "res": "role_fish_17",
+    "type": "1",
+    "gold": "300",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "200-360"
+  },
+  {
+    "id": "12",
+    "name": "简体|神仙魚|Angelfish",
+    "res": "role_fish_4",
+    "type": "1",
+    "gold": "325",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "240-390"
+  },
+  {
+    "id": "13",
+    "name": "简体|小丑魚|Clown Fish",
+    "res": "role_fish_19",
+    "type": "1",
+    "gold": "350",
+    "speed": "3",
+    "displayspeed": "1-2",
+    "info": "270-430"
+  },
+  {
+    "id": "14",
+    "name": "简体|六間魚|Cichlid",
+    "res": "role_fish_8",
+    "type": "1",
+    "gold": "375",
+    "speed": "3",
+    "displayspeed": "1-2",
+    "info": "300-470"
+  },
+  {
+    "id": "15",
+    "name": "简体|章魚|Octopus",
+    "res": "role_fish_12",
+    "type": "1",
+    "gold": "400",
+    "speed": "1",
+    "displayspeed": "2-4",
+    "info": "330-500"
+  },
+  {
+    "id": "16",
+    "name": "简体|鱸魚|Perch",
+    "res": "role_fish_10",
+    "type": "1",
+    "gold": "425",
+    "speed": "4",
+    "displayspeed": "3-5",
+    "info": "360-540"
+  },
+  {
+    "id": "17",
+    "name": "简体|金槍魚|Tuna",
+    "res": "role_fish_6",
+    "type": "1",
+    "gold": "450",
+    "speed": "4",
+    "displayspeed": "3-5",
+    "info": "390-580"
+  },
+  {
+    "id": "18",
+    "name": "简体|金曼龍魚|Gold Gourami",
+    "res": "role_fish_9",
+    "type": "1",
+    "gold": "475",
+    "speed": "3",
+    "displayspeed": "1-2",
+    "info": "430-580"
+  },
+  {
+    "id": "19",
+    "name": "简体|水母|Jellyfish",
+    "res": "role_fish_1",
+    "type": "1",
+    "gold": "500",
+    "speed": "1",
+    "displayspeed": "1-2",
+    "info": "470-580"
+  },
+  {
+    "id": "20",
+    "name": "简体|斑馬魚|Zebra Fish",
+    "res": "role_fish_11",
+    "type": "1",
+    "gold": "525",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "480-600"
+  },
+  {
+    "id": "21",
+    "name": "简体|海星|Starfish",
+    "res": "role_fish_21",
+    "type": "1",
+    "gold": "550",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "510-630"
+  },
+  {
+    "id": "22",
+    "name": "简体|河豚|Globefish",
+    "res": "role_fish_22",
+    "type": "1",
+    "gold": "575",
+    "speed": "1",
+    "displayspeed": "1-2",
+    "info": "540-660"
+  },
+  {
+    "id": "23",
+    "name": "简体|劍魚|Sword Fish",
+    "res": "role_fish_23",
+    "type": "1",
+    "gold": "600",
+    "speed": "4",
+    "displayspeed": "3-5",
+    "info": "570-690"
+  },
+  {
+    "id": "24",
+    "name": "简体|鰻魚|Eel",
+    "res": "role_fish_24",
+    "type": "1",
+    "gold": "625",
+    "speed": "5",
+    "displayspeed": "4-5",
+    "info": "600-720"
+  },
+  {
+    "id": "25",
+    "name": "简体|烏賊|Squid",
+    "res": "role_fish_25",
+    "type": "1",
+    "gold": "650",
+    "speed": "1",
+    "displayspeed": "1-2",
+    "info": "630-750"
+  },
+  {
+    "id": "26",
+    "name": "简体|黑紋熱帶魚|Black-striped Tropical Fish",
+    "res": "role_fish_26",
+    "type": "1",
+    "gold": "675",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "660-780"
+  },
+  {
+    "id": "27",
+    "name": "简体|白鯨|White Whale",
+    "res": "role_fish_27",
+    "type": "1",
+    "gold": "700",
+    "speed": "1",
+    "displayspeed": "1-2",
+    "info": "690-810"
+  },
+  {
+    "id": "28",
+    "name": "简体|旗尾蝦虎|Ptereleotris uroditaenia",
+    "res": "role_fish_28",
+    "type": "1",
+    "gold": "725",
+    "speed": "4",
+    "displayspeed": "3-5",
+    "info": "720-840"
+  },
+  {
+    "id": "29",
+    "name": "简体|狐狸魚|Siganus vulpinus",
+    "res": "role_fish_29",
+    "type": "1",
+    "gold": "750",
+    "speed": "4",
+    "displayspeed": "3-5",
+    "info": "750-870"
+  },
+  {
+    "id": "30",
+    "name": "简体|五彩吊|Acanthurus nigricans",
+    "res": "role_fish_30",
+    "type": "1",
+    "gold": "775",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "780-900"
+  },
+  {
+    "id": "31",
+    "name": "简体|人字蝶|Chaetodon auriga",
+    "res": "role_fish_31",
+    "type": "1",
+    "gold": "800",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "810-930"
+  },
+  {
+    "id": "32",
+    "name": "简体|黑背蝴蝶鱼|Blackbacked Butterflyfish",
+    "res": "role_fish_32",
+    "type": "1",
+    "gold": "825",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "850-970"
+  },
+  {
+    "id": "33",
+    "name": "简体|黑白關刀|Heniochus acuminatus",
+    "res": "role_fish_33",
+    "type": "1",
+    "gold": "850",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "890-1010"
+  },
+  {
+    "id": "34",
+    "name": "简体|藍鯨|Blue Whale",
+    "res": "role_fish_34",
+    "type": "1",
+    "gold": "875",
+    "speed": "1",
+    "displayspeed": "1-2",
+    "info": "930-1050"
+  },
+  {
+    "id": "35",
+    "name": "简体|豹鯨|Triakis semifasciata",
+    "res": "role_fish_35",
+    "type": "1",
+    "gold": "900",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "970-1090"
+  },
+  {
+    "id": "36",
+    "name": "简体|鯨鯊|Whale Shark",
+    "res": "role_fish_36",
+    "type": "1",
+    "gold": "925",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "1010-1130"
+  },
+  {
+    "id": "37",
+    "name": "简体|鱟鯊|Bowmouth guitarfish",
+    "res": "role_fish_37",
+    "type": "1",
+    "gold": "950",
+    "speed": "2",
+    "displayspeed": "1-3",
+    "info": "1050-1170"
+  },
+  {
+    "id": "38",
+    "name": "简体|黃尾藍魔|Chrysiptera parasema",
+    "res": "role_fish_38",
+    "type": "1",
+    "gold": "975",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "1090-1210"
+  },
+  {
+    "id": "101",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_107",
+    "type": "2",
+    "gold": "150",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "102",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_120",
+    "type": "2",
+    "gold": "225",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "103",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_102",
+    "type": "2",
+    "gold": "300",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "104",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_104",
+    "type": "2",
+    "gold": "375",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "105",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_116",
+    "type": "2",
+    "gold": "450",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "106",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_103",
+    "type": "2",
+    "gold": "525",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "107",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_108",
+    "type": "2",
+    "gold": "600",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "108",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_115",
+    "type": "2",
+    "gold": "675",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "109",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_118",
+    "type": "2",
+    "gold": "750",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "110",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_119",
+    "type": "2",
+    "gold": "825",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "111",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_117",
+    "type": "2",
+    "gold": "900",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "112",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_113",
+    "type": "2",
+    "gold": "975",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "113",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_114",
+    "type": "2",
+    "gold": "1050",
+    "speed": "1",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "114",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_105",
+    "type": "2",
+    "gold": "1125",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "115",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_109",
+    "type": "2",
+    "gold": "1200",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "116",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_110",
+    "type": "2",
+    "gold": "1275",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "117",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_106",
+    "type": "2",
+    "gold": "1350",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "118",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_112",
+    "type": "2",
+    "gold": "1425",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "119",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_101",
+    "type": "2",
+    "gold": "1500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "120",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_111",
+    "type": "2",
+    "gold": "1575",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "121",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_121",
+    "type": "2",
+    "gold": "1650",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "122",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_122",
+    "type": "2",
+    "gold": "1725",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "123",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_123",
+    "type": "2",
+    "gold": "1800",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "124",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_124",
+    "type": "2",
+    "gold": "1875",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "125",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_125",
+    "type": "2",
+    "gold": "1950",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "126",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_126",
+    "type": "2",
+    "gold": "2025",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "127",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_127",
+    "type": "2",
+    "gold": "2100",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "128",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_128",
+    "type": "2",
+    "gold": "2175",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "129",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_129",
+    "type": "2",
+    "gold": "2250",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "130",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_130",
+    "type": "2",
+    "gold": "2325",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "131",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_131",
+    "type": "2",
+    "gold": "2400",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "132",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_132",
+    "type": "2",
+    "gold": "2475",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "133",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_133",
+    "type": "2",
+    "gold": "2550",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "134",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_134",
+    "type": "2",
+    "gold": "2625",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "135",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_135",
+    "type": "2",
+    "gold": "2700",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "136",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_136",
+    "type": "2",
+    "gold": "2775",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "137",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_137",
+    "type": "2",
+    "gold": "2850",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "138",
+    "name": "简体|繁体|英文",
+    "res": "role_fish_138",
+    "type": "2",
+    "gold": "2925",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": ""
+  },
+  {
+    "id": "201",
+    "name": "简体|海豚|Dolphins",
+    "res": "role_fish_201",
+    "type": "3",
+    "gold": "500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "202",
+    "name": "简体|美人魚|Mermaid",
+    "res": "role_fish_202",
+    "type": "3",
+    "gold": "750",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "203",
+    "name": "简体|透明水母|Transparent jellyfish",
+    "res": "role_fish_203",
+    "type": "3",
+    "gold": "1000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "204",
+    "name": "简体|燈籠水母|Lantern Jellyfish",
+    "res": "role_fish_204",
+    "type": "3",
+    "gold": "1500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "205",
+    "name": "简体|海豹|Seal",
+    "res": "role_fish_205",
+    "type": "3",
+    "gold": "2000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "206",
+    "name": "简体|海天使|Sea Angel",
+    "res": "role_fish_206",
+    "type": "3",
+    "gold": "2500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "207",
+    "name": "简体|燈泡魚|Lantern fish",
+    "res": "role_fish_207",
+    "type": "3",
+    "gold": "3000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "208",
+    "name": "简体|獅子魚|Snailfish",
+    "res": "role_fish_208",
+    "type": "3",
+    "gold": "3500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "209",
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_219",
+    "type": "3",
+    "gold": "1000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "210",
+    "name": "简体|鲸鱼|Whale",
+    "res": "role_fish_210",
+    "type": "3",
+    "gold": "2000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "211",
+    "name": "简体|孔雀魚|Guppy",
+    "res": "role_fish_211",
+    "type": "3",
+    "gold": "4000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "212",
+    "name": "简体|魔鬼魚|Mobula",
+    "res": "role_fish_212",
+    "type": "3",
+    "gold": "4500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "213",
+    "name": "简体|海參|Sea cucumber",
+    "res": "role_fish_213",
+    "type": "3",
+    "gold": "5000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "214",
+    "name": "简体|抹香鯨|Sperm whale",
+    "res": "role_fish_214",
+    "type": "3",
+    "gold": "5500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "215",
+    "name": "简体| 黃金美人蝦|Golden Banded Coral Shrimp ",
+    "res": "role_fish_215",
+    "type": "3",
+    "gold": "6000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "216",
+    "name": "简体| 紅線鴛鴦|Redstripe Tilefish",
+    "res": "role_fish_216",
+    "type": "3",
+    "gold": "6500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "217",
+    "name": "简体|狐鯊|Fox Shark",
+    "res": "role_fish_217",
+    "type": "3",
+    "gold": "7000",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": "218",
+    "name": "简体|雙色草莓|Pseudochromis paccagnella",
+    "res": "role_fish_218",
+    "type": "3",
+    "gold": "7500",
+    "speed": "3",
+    "displayspeed": "2-4",
+    "info": "???"
+  },
+  {
+    "id": 301,
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_301",
+    "type": "4",
+    "gold": "0",
+    "speed": "0",
+    "displayspeed": "0",
+    "info": "???"
+  },
+  {
+    "id": 302,
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_302",
+    "type": "4",
+    "gold": "0",
+    "speed": "0",
+    "displayspeed": "0",
+    "info": "???"
+  },
+  {
+    "id": 303,
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_303",
+    "type": "4",
+    "gold": "10",
+    "speed": "0",
+    "displayspeed": "0",
+    "info": "???"
+  },
+  {
+    "id": 304,
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_304",
+    "type": "4",
+    "gold": "20",
+    "speed": "0",
+    "displayspeed": "0",
+    "info": "???"
+  },
+  {
+    "id": 305,
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_305",
+    "type": "4",
+    "gold": "30",
+    "speed": "0",
+    "displayspeed": "0",
+    "info": "???"
+  },
+  {
+    "id": 401,
+    "name": "简体|孔雀鲆|Peacock Flounder",
+    "res": "role_fish_301",
+    "type": "5",
+    "gold": "0",
+    "speed": "0",
+    "displayspeed": "0",
+    "info": "???"
+  }
+]

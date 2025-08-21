@@ -1,0 +1,41 @@
+
+role_fish_205.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi1
+  rotate: false
+  xy: 172, 30
+  size: 64, 26
+  orig: 68, 30
+  offset: 2, 2
+  index: -1
+qi2
+  rotate: false
+  xy: 172, 5
+  size: 56, 23
+  orig: 60, 27
+  offset: 2, 2
+  index: -1
+shen
+  rotate: false
+  xy: 2, 2
+  size: 168, 54
+  orig: 172, 58
+  offset: 2, 2
+  index: -1
+tui1
+  rotate: false
+  xy: 238, 41
+  size: 48, 15
+  orig: 52, 19
+  offset: 2, 2
+  index: -1
+tui2
+  rotate: false
+  xy: 288, 43
+  size: 46, 13
+  orig: 50, 17
+  offset: 2, 2
+  index: -1

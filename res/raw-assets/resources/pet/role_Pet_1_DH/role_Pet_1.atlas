@@ -1,0 +1,97 @@
+
+role_Pet_1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shen
+  rotate: false
+  xy: 2, 55
+  size: 62, 66
+  orig: 66, 70
+  offset: 2, 2
+  index: -1
+tou
+  rotate: false
+  xy: 66, 81
+  size: 74, 40
+  orig: 78, 44
+  offset: 2, 2
+  index: -1
+yan1
+  rotate: false
+  xy: 172, 104
+  size: 39, 17
+  orig: 43, 21
+  offset: 2, 2
+  index: -1
+yan2
+  rotate: false
+  xy: 172, 85
+  size: 39, 17
+  orig: 43, 21
+  offset: 2, 2
+  index: -1
+youjiao
+  rotate: false
+  xy: 142, 70
+  size: 29, 13
+  orig: 33, 17
+  offset: 2, 2
+  index: -1
+youshou1
+  rotate: false
+  xy: 213, 88
+  size: 21, 33
+  orig: 25, 37
+  offset: 2, 2
+  index: -1
+youshou2
+  rotate: false
+  xy: 142, 85
+  size: 28, 36
+  orig: 32, 40
+  offset: 2, 2
+  index: -1
+yu
+  rotate: true
+  xy: 2, 2
+  size: 51, 60
+  orig: 55, 64
+  offset: 2, 2
+  index: -1
+zui1
+  rotate: false
+  xy: 116, 49
+  size: 25, 13
+  orig: 29, 17
+  offset: 2, 2
+  index: -1
+zui2
+  rotate: false
+  xy: 116, 64
+  size: 24, 15
+  orig: 28, 19
+  offset: 2, 2
+  index: -1
+zuojiao
+  rotate: false
+  xy: 173, 70
+  size: 27, 13
+  orig: 31, 17
+  offset: 2, 2
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 236, 91
+  size: 16, 30
+  orig: 20, 34
+  offset: 2, 2
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 66, 56
+  size: 23, 48
+  orig: 27, 52
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,20 @@
+
+role_fish_138.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 202, 8
+  size: 54, 14
+  orig: 58, 18
+  offset: 2, 2
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 198, 60
+  orig: 202, 64
+  offset: 2, 2
+  index: -1

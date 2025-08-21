@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "简体|水族館|Coral Sea",
+    "res": "theme_1",
+    "type": "1",
+    "gold": "0"
+  },
+  {
+    "id": "2",
+    "name": "简体|海盜寶藏|Coral Sea",
+    "res": "theme_2",
+    "type": "2",
+    "gold": "0"
+  },
+  {
+    "id": "3",
+    "name": "简体|珊瑚海|Coral Sea",
+    "res": "theme_3",
+    "type": "3",
+    "gold": "0"
+  }
+]

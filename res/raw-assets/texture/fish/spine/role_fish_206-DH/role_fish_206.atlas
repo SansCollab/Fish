@@ -1,0 +1,41 @@
+
+role_fish_206.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi1
+  rotate: true
+  xy: 82, 59
+  size: 65, 32
+  orig: 69, 36
+  offset: 2, 2
+  index: -1
+chi2
+  rotate: true
+  xy: 82, 2
+  size: 55, 36
+  orig: 59, 40
+  offset: 2, 2
+  index: -1
+chi3
+  rotate: false
+  xy: 42, 2
+  size: 34, 50
+  orig: 38, 54
+  offset: 2, 2
+  index: -1
+chi4
+  rotate: true
+  xy: 2, 2
+  size: 50, 38
+  orig: 54, 42
+  offset: 2, 2
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 54
+  size: 78, 70
+  orig: 82, 74
+  offset: 2, 2
+  index: -1

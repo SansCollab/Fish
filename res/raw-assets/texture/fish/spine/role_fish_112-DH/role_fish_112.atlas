@@ -1,0 +1,41 @@
+
+role_fish_112.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shen
+  rotate: false
+  xy: 2, 43
+  size: 270, 83
+  orig: 274, 87
+  offset: 2, 2
+  index: -1
+tui1
+  rotate: false
+  xy: 274, 66
+  size: 154, 60
+  orig: 158, 64
+  offset: 2, 2
+  index: -1
+tui2
+  rotate: false
+  xy: 2, 2
+  size: 179, 39
+  orig: 183, 43
+  offset: 2, 2
+  index: -1
+tui3
+  rotate: true
+  xy: 430, 9
+  size: 117, 55
+  orig: 121, 59
+  offset: 2, 2
+  index: -1
+tui4
+  rotate: false
+  xy: 274, 37
+  size: 154, 27
+  orig: 158, 31
+  offset: 2, 2
+  index: -1

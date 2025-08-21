@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "简体|小企鹅|Coral Sea",
+    "res": "Role_Pet_1",
+    "type": "2",
+    "gold": "0"
+  },
+  {
+    "id": "2",
+    "name": "简体|小海豚|Coral Sea",
+    "res": "Role_Pet_2",
+    "type": "1",
+    "gold": "500000"
+  },
+  {
+    "id": 5,
+    "name": "简体|美人魚|Coral Sea",
+    "res": "Role_Pet_5",
+    "type": "3",
+    "gold": "0"
+  }
+]

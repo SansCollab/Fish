@@ -1,0 +1,48 @@
+
+role_fish_1.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 131, 33
+  size: 21, 46
+  orig: 25, 50
+  offset: 2, 2
+  index: -1
+2
+  rotate: true
+  xy: 131, 12
+  size: 19, 45
+  orig: 23, 49
+  offset: 2, 2
+  index: -1
+3
+  rotate: true
+  xy: 179, 40
+  size: 14, 47
+  orig: 18, 51
+  offset: 2, 2
+  index: -1
+4
+  rotate: true
+  xy: 179, 21
+  size: 17, 43
+  orig: 21, 47
+  offset: 2, 2
+  index: -1
+5
+  rotate: false
+  xy: 72, 9
+  size: 57, 45
+  orig: 61, 49
+  offset: 2, 2
+  index: -1
+yu
+  rotate: false
+  xy: 2, 2
+  size: 68, 52
+  orig: 72, 56
+  offset: 2, 2
+  index: -1

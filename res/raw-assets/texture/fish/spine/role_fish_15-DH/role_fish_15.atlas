@@ -1,0 +1,55 @@
+
+role_fish_15.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui1
+  rotate: false
+  xy: 180, 2
+  size: 53, 24
+  orig: 57, 28
+  offset: 2, 2
+  index: -1
+houtui2
+  rotate: true
+  xy: 235, 16
+  size: 18, 19
+  orig: 22, 23
+  offset: 2, 2
+  index: -1
+ke
+  rotate: false
+  xy: 120, 15
+  size: 58, 44
+  orig: 62, 48
+  offset: 2, 2
+  index: -1
+qiantui1
+  rotate: false
+  xy: 2, 3
+  size: 58, 56
+  orig: 62, 60
+  offset: 2, 2
+  index: -1
+qiantui2
+  rotate: true
+  xy: 180, 28
+  size: 31, 52
+  orig: 35, 56
+  offset: 2, 2
+  index: -1
+tou
+  rotate: false
+  xy: 62, 12
+  size: 56, 47
+  orig: 60, 51
+  offset: 2, 2
+  index: -1
+yuan
+  rotate: true
+  xy: 234, 36
+  size: 23, 16
+  orig: 27, 20
+  offset: 2, 2
+  index: -1
